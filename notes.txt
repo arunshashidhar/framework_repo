@@ -1,0 +1,7 @@
+@Test(dataProviderClass = BaseDriver.class,dataProvider = "getScenarios")
+
+If data provider is in another class we have to make the method static and also provide the class name when calling in the test method
+
+
+List package class and method structure
+write the flow diagram 
